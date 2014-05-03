@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <!--
 VinceArter.com Media Page
-Version 1.1 01-May-2014
 Fully validated for HTML5 using http://http://validator.w3.org
-(c) 2013 Vincent Lee Arter, Jr. All Rights Reserved
+(c) 1997 - 2014 Vincent Lee Arter, Jr. All Rights Reserved
 -->
 
 <html>
@@ -152,7 +151,14 @@ Fully validated for HTML5 using http://http://validator.w3.org
 </section> <!-- page -->
 
 <footer id="footer">
-    <p>&copy; <a href="mailto:vince@vincearter.com">Vincent Lee Arter, Jr.</a> | Last Updated: 01-May-2014</p>
+    <script>
+        var lastUpdatedDate = new Date(document.lastModified).toDateString();
+
+        document.write("<p>");
+        document.write("&copy; <a href='mailto:vince@vincearter.com'>Vincent Lee Arter, Jr.</a>");
+        document.write(" | Last Updated: " + lastUpdatedDate);
+        document.write("</p>");
+    </script>
 </footer> <!-- footer -->
 
 </body>
