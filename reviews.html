@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--
-VinceArter.com Home Page
+VinceArter.com Basic Template
 Fully validated for HTML5 using http://http://validator.w3.org
 (c) 1997 - 2014 Vincent Lee Arter, Jr. All Rights Reserved
 -->
@@ -8,7 +8,7 @@ Fully validated for HTML5 using http://http://validator.w3.org
 <html>
 
 <head>
-    <title>VinceArter.com - Home Page</title>
+    <title>TEMPLATE - Welcome to VinceArter.com</title>
     <meta charset="UTF-8">
     <link href="css/normalize.css" rel="stylesheet" type="text/css" />
     <link href="css/core.css" rel="stylesheet" type="text/css" />
@@ -27,12 +27,13 @@ Fully validated for HTML5 using http://http://validator.w3.org
         
         <nav id="navHeader">
             <ul>
-                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="blog.html">Blog</a></li>
                 <li><a href="cv.html">Resume</a></li>
                 <li><a href="tech.html">Tech</a></li>
-                <li><a href="reviews.html">Reviews</a></li>
+                <li><a href="media.html">Media</a></li>
+                <li><a href="reviews.html" class="active">Reviews</a></li>
             </ul>
         </nav> <!-- navHeader -->
         
@@ -45,19 +46,23 @@ Fully validated for HTML5 using http://http://validator.w3.org
             
     <section id="content">
         
-        <div id="billboard">
-            <img class="imgBillboard" src="images/billboardwelcomemed.png" 
-            alt="Welcome Billboard" />
-        </div>
+        <article id="article">
 
-        <div id="badgeboard">
-            <a href="about.html"><img class="imgBadgeboard" src="images/badgeaboutva2med.png" 
-                alt="About Vince Page Badge Image" /></a>
-            <a href="tech.html"><img class="imgBadgeboard" src="images/badgetechmed.png" 
-                alt="Technical Page Badge Image" /></a>
-            <a href="media.html"><img class="imgBadgeboard" src="images/badgemediamed.png" 
-                alt="Media Page Badge Image" /></a>
-        </div>
+            <h1>Reviews by Vince</h1>
+            <p>Links to places I do reviews for products, services, books, movies, etc.</p>
+            <br />
+            <p><a href="http://www.amazon.com/gp/cdp/member-reviews/A2OKYMDVXKKBQC?ie=UTF8&display=public" target="top"><img src="images/navAmazonLogoFooter.gif" alt="Amazon.com" /></a></p>            
+        </article> <!-- article -->
+        
+        <aside id="aside">
+
+            <h1>Related Items</h1>
+            <h3>Aside Content Area</h3>
+            <p>
+            All reviews and comments are the sole property of Vincent Lee Arter Jr. and / or 
+            the site content owner as noted on the copyright information from each vendor and 
+            site.</p>
+        </aside> <!-- aside -->
         
         <p class="clear"></p>
     </section> <!-- section for Content -->
