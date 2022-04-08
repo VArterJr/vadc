@@ -2,42 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://www.vincearter.com/</loc>
-         <lastmod>2022-03-20</lastmod>
+         <lastmod>2022-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.vincearter.com/about/</loc>
-         <lastmod>2022-03-20</lastmod>
+         <lastmod>2022-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.vincearter.com/blog/</loc>
-         <lastmod>2022-03-20</lastmod>
+         <lastmod>2022-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.vincearter.com/cv/</loc>
-         <lastmod>2022-03-20</lastmod>
+         <lastmod>2022-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.vincearter.com/media/</loc>
-         <lastmod>2022-03-20</lastmod>
+         <lastmod>2022-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.vincearter.com/reviews/</loc>
-         <lastmod>2022-03-20</lastmod>
+         <lastmod>2022-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.vincearter.com/tech/</loc>
-         <lastmod>2022-03-20</lastmod>
+         <lastmod>2022-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://www.vincearter.com/template/</loc>
-         <lastmod>2022-03-20</lastmod>
+         <lastmod>2022-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.vincearter.com/test/a/</loc>
+         <lastmod>2022-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.vincearter.com/test/b/</loc>
+         <lastmod>2022-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.vincearter.com/test/c/</loc>
+         <lastmod>2022-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
