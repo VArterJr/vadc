@@ -16,7 +16,7 @@ You may use this script for personal use. If you distribute, charge for it, or a
 Note: This site uses the open source Jekyll website framework and Liquid template language. For more information on Jekyll licensing, please see https://github.com/jekyll/jekyll/blob/master/LICENSE. For more information on Liquid licensing, please see https://shopify.github.io/liquid/.
 
 ## Version History
-* Version 2.0 (18-June-2023): Moved off GitHub Pages and to pure Azure. Had to completely reset because there seems to be no way to remove the GitHub Pages Action. So clean repo and history prior to Version 2 is in the old archive (https://github.com/VArterJr/old.varterjr.github.io and https://github.com/VArterJr/old.vacroot).
+* Version 2.0 (18-June-2023): Moved off GitHub Pages and to pure Azure. Had to completely reset because there seems to be no way to remove the GitHub Pages Action. So clean repo and history prior to Version 2 is in the old archive (https://github.com/VArterJr/old.varterjr.github.io and https://github.com/VArterJr/old.vacroot). Cleaned up old images moving them to a subfolder called _archive_.
 * Version 1.1 (19-Nov-2022): Fixed an issue with Media page not having the correct permalink.
 * Version 1.0 (22-Oct-2022): Finished migrating Media from old site. Cleaned up a few things and it looks and tests ready for a 1.0 release using Jekyll and Liquid!!!
 * Version 0.6 (05-Oct-2022): Migrated Reviews and Tech from old site. Need to figure out Markdown image centering on `asides`.
