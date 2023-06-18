@@ -36,6 +36,8 @@ defaults:
     values:
       image: true
       
+exclude: ["README.md"]
+
 # Build settings
 theme: minima
 #theme: jekyll-theme-hacker

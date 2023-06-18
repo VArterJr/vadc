@@ -121,28 +121,29 @@ Design and support of hospital imaging equipment. Developed industry leading sof
 ## Contact Vince
 For more information or a formal CV please contact me at [vince@vincearter.com](mailto:vince@vincearter.com).
 
-| Certifications |
-| :---: |
+|                Certifications                 |
+| :-------------------------------------------: |
 | Microsoft Senior Technical Leadership Program |
-| Microsoft Azure Fund.<br/>(AZ-900) |
-| Microsoft Azure Data Fund. (DP-900) |
-| Microsoft M365 Fund. (MS-900) |
-| Microsoft Dynamics Fund. (MB-900) |
-| Microsoft Certified Professional |
-| Microsoft Technical Associate Windows |
-| CompTIA A+ |
-| CompTIA Network+ |
-| CompTIA Project+ |
-| CompTIA Security+ |
-| CIW Foundations Associate |
-| CIW Web Design Specialist |
-| CIW JavaScript Specialist |
-| CIW Database Design Specialist |
+|     Microsoft Security Fund.<br/>(SC-900)     |
+|      Microsoft Azure Fund.<br/>(AZ-900)       |
+|      Microsoft Azure Data Fund. (DP-900)      |
+|         Microsoft M365 Fund. (MS-900)         |
+|       Microsoft Dynamics Fund. (MB-900)       |
+|       Microsoft Certified Professional        |
+|     Microsoft Technical Associate Windows     |
+|                  CompTIA A+                   |
+|               CompTIA Network+                |
+|               CompTIA Project+                |
+|               CompTIA Security+               |
+|           CIW Foundations Associate           |
+|           CIW Web Design Specialist           |
+|           CIW JavaScript Specialist           |
+|        CIW Database Design Specialist         |
 
 
-| Academic |
-| :-: | :-: |
-| **AAS Electronic Engineering** | Vatterott College <br/> _(1998)_ |
-| **BS IT Management** | Western Governors Univeristy <br/> _(Senior Year)_ |
+|            Academic            |
+| :----------------------------: | :------------------------------------------------: |
+| **AAS Electronic Engineering** |          Vatterott College <br/> _(1998)_          |
+|      **BS IT Management**      | Western Governors Univeristy <br/> _(Senior Year)_ |
 
 </aside>
