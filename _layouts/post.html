@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<br />
+
+<div class="postNav">
+    <div>
+        {% if page.previous.url %}
+        <a href="{{page.previous.url}}"><button>&laquo;&nbsp;{{page.previous.title}}</button></a>
+        {% endif %}
+    </div>
+
+    <div class="tableContentCenter">{{ page.title }}</div>
+
+    <div class="postNavNext">
+        {% if page.next.url %}
+        <a href="{{page.next.url}}"><button>{{page.next.title}}&nbsp;&raquo;</button></a>
+        {% endif %}
+    </div>
+</div>
+
+<p>{{ page.date }} - Written by {{ page.author }}</p>
+
+{{ content }}
