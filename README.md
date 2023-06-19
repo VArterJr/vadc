@@ -16,7 +16,7 @@ You may use this script for personal use. If you distribute, charge for it, or a
 Note: This site uses the open source Jekyll website framework and Liquid template language. For more information on Jekyll licensing, please see https://github.com/jekyll/jekyll/blob/master/LICENSE. For more information on Liquid licensing, please see https://shopify.github.io/liquid/.
 
 ## Version History
-* Version 5.1 (19-June-2023): Content changes in several pages as well as new images for things that have changed since the initial build.
+* Version 5.1 (19-June-2023): Content changes in several pages as well as new images for things that have changed since the initial build. Fixed some link issues and made sure that off site links opened a new page / tab vs. replacing my site.
 * Version 5.0 (18-June-2023): Moved off GitHub Pages and to pure Azure. Had to completely reset because there seems to be no way to remove the GitHub Pages Action. So clean repo and history prior to Version 2 is in the old archive (https://github.com/VArterJr/old.varterjr.github.io and https://github.com/VArterJr/old.vacroot). Cleaned up old images moving them to a subfolder called _archive_. Several content updates and corrections. Added an `exclude` clause to _config.yml_ so that README.md can be in the root folder for GitHub and not get deployed to __site_. Prettied up _404.html_. Changed GitHub Action to only work on `Release` and nothing else. Updated billboard image to something more recent.
 * Version 4.x (vacroot static) & Jekyll (2.0 above): Merged projects so will start new with Version 5.0 above. Please ignore recent v2.0 notes.
 * Version 1.1 (19-Nov-2022): Fixed an issue with Media page not having the correct permalink. 

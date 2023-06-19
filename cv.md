@@ -150,6 +150,6 @@ For more information or a formal CV please contact me at [vince@vincearter.com](
 |            Academic            |
 | :----------------------------: | :------------------------------------------------: |
 | **AAS Electronic Engineering** |          Vatterott College <br/> _(1998)_          |
-|      **BS IT Management**      | Western Governors Univeristy <br/> _(Senior Year)_ |
+|      **BS IT Management**      | Western Governors University <br/> _(Senior Year)_ |
 
 </aside>
