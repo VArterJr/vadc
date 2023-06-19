@@ -7,21 +7,19 @@ permalink: /tech/
 
 <article id="article" markdown=1>
 
-<p class="alert">Note: Unless otherwise noted all software is the property of
-Vincent Lee Arter, Jr. and you must obtain written permission from me in
-order to use and/or distribute any of my software.</p>
+<p class="alert">Note: Unless otherwise noted all software is the property of Vincent Lee Arter, Jr., and you must obtain written permission from me to use and/or distribute any of my software.</p>
 
 ## Software Projects
 Yes, I dabble in software projects. Here are just a few of the personal software projects I'm working on or have done in the past.
 
 ### CrapSS & CrapSS+
-CrapSS & CrapSS+ - A basic screensaver with effects and editable text. Many features could be customized. I've use this project as an experimental platform in SO many languages / engines.
+CrapSS & CrapSS+ - A very basic screensaver with effects and editable text. Many features can be configured. I use it as my screensaver as do several friends and family members. It is a fun little project that I've been working on for years. I've been using it as a test bed for learning new languages and engines.
 
-Currently working on a new release I'll post here when done in six different languages / engines to see which I like best.
+I'm currently working on a new release (CrapSS+). I'll post here when it is in a releasable state. I've been building it in six different languages / engines to see which I like best. Current beta iterations have been developed in C++ using the Qt libraries. Past iterations of the code base were developed in Pascal (Lazarus), AppGameKit, Unity, Godot & C#, Orx & C++, and C# with WinUI.
 
-Current test iterations being worked on are in Qt & C++, Pascal (Lazarus), AppGameKit, Unity, Godot & C#, Orx & C++, and C# with WinUI.
-
-In the past releases were done in C, C++, C# & WinForms, Unreal Engine, Pascal (Delphi), AppGameKit, VB, and JavaScript / Electron.
+In the past, full releases were done in C, C++, C# & WinForms, Unreal Engine, Pascal (Delphi), AppGameKit, VB, and JavaScript / Electron.
+![CrapSS+ Screenshot](/assets/images/crapssplus.png){:.screenshot}
+![CrapSS+ Config File Screenshot](/assets/images/crapssplusconfig.png){:.screenshot}
 
 ### VinceArter.com Modernization
 This site has been around since the mid-1990s. There have been many incarnations with so many technologies. The previous design was built in 2014 and was designed using static HTML, CSS, and some JavaScript.
@@ -46,7 +44,7 @@ I really wish I had a screenshot of this app. It was really cool looking. The so
 ### Other Software Projects
 This is just a partial list of the dozens of my "retired" software projects...
 
-* Numerous scripts, written in various scripting languages, that make/made my life easier. I still use quite a few of these. The repo is available on GitHub. If you are interested in access just drop me an email.
+* Numerous scripts, written in various scripting languages, that make/made my life easier. I still use quite a few of these. The repo is available on GitHub. If you are interested in access, just drop me an email.
 * Service Control - Automation for starting / stopping Windows Services (AutoIt)
 * ProtoNotes - A simple daily diary organized by dates. (C++)
 * SuperBarX - A "super utility bar" for Windows 2000 and XP. (C++)
@@ -71,8 +69,8 @@ This is just a partial list "retired" hardware projects...
 <aside id="aside" markdown=1>
 
 <h1>Programming</h1>
-<img id="imgAsideMain" src="/assets/images/programming.gif" alt="I'm a Crazy Programmer" />
-<p id="figAsideMain">Me on some "coding days"</p>
+<img id="imgAsideMain" src="/assets/images/programmingsafe.gif" alt="Some coding days"/>
+<p id="figAsideMain">Some coding days...</p>
 <br />
 
 I have to admit I love programming most of the time... and still some days it drives me crazy. As a technology manager and solutions architect for many years now I don't get to code as much as I used to. Except for prototyping and as a hobby.
