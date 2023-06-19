@@ -34,7 +34,7 @@ Vince Arter, Jr. - Updated: 19-June-2022 (Original post circa 2007)
 
 ## Related Items
 ### Resume / CV
-[Click here to view Vince's CV / Resume](cv.md)
+[Click here to view Vince's CV / Resume](/cv/)
 
 ### My Twitter Medium Blog
 If you are looking for my legacy blog [click here to go to my Twitter Medium page](https://vinniedaarm.medium.com/){:target="blank"}.
