@@ -16,6 +16,7 @@ You may use this script for personal use. If you distribute, charge for it, or a
 Note: This site uses the open source Jekyll website framework and Liquid template language. For more information on Jekyll licensing, please see https://github.com/jekyll/jekyll/blob/master/LICENSE. For more information on Liquid licensing, please see https://shopify.github.io/liquid/.
 
 ## Version History
+* Version 5.2 (26-Sep-2023): Updated CV with Certifications and Accreditations.
 * Version 5.1.2 (19-June-2023): Re-sync local and remote and updated comments.
 * Version 5.1.1 (19-June-2023): Fixed the issue with _About_ page pointing to incorrect place for _CV_. (https://github.com/VArterJr/vadc/issues/2) Also posting fix for GitHub Action for `Release` only which is causing weird issues with the site CI/CD process. (https://github.com/VArterJr/vadc/issues/1)
 * Version 5.1 (19-June-2023): Content changes in several pages as well as new images for things that have changed since the initial build. Fixed some link issues and made sure that off site links opened a new page / tab vs. replacing my site.
