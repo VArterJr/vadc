@@ -8,9 +8,13 @@ permalink: /media/
 <article id="article" markdown=1>
 
 <p class="alert">Note: Unless otherwise noted, all media is the property of Vincent Lee Arter, Jr. and / or the original author. All copyrights are owned by their owner (of course). You must obtain written permission to use and / or distribute any media from this site.</p>
-<br />
 
-## Audio Samples
+## Visual Art
+My art page contains examples of art I've made over the years. OS wallpaper backgrounds, tileable backgrounds, rendered 3D landscapes, and even conference call camera backgrounds.
+
+[![See may art](/assets/images/art/art-banner.png){:.screenshot}](/media/art)
+
+## Music Examples
 Below are just a few examples of music I've written over the years. The samples below are compositions I wrote using pattern ideation tools, notation tools, and recorded with a DAW.
 
 There is a bit of space at the start of each song, so please be patient. I need to clean those older files up so their intros are a bit more polished.

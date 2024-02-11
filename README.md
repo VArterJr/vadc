@@ -16,6 +16,7 @@ You may use this script for personal use. If you distribute, charge for it, or a
 Note: This site uses the open source Jekyll website framework and Liquid template language. For more information on Jekyll licensing, please see https://github.com/jekyll/jekyll/blob/master/LICENSE. For more information on Liquid licensing, please see https://shopify.github.io/liquid/.
 
 ## Version History
+* Version 5.3 (11-Feb-2024): Added Art sub page off of Media page with downloads of art I've created.
 * Version 5.2.1 (27-Sep-2023): Enhanced C code billboard image.
 * Version 5.2 (26-Sep-2023): Updated CV with Certifications and Accreditations.
 * Version 5.1.2 (19-June-2023): Re-sync local and remote and updated comments.

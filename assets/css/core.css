@@ -77,6 +77,11 @@ div#badgeboard {
     width: 300px;
 }
 
+.screenshotTiny {
+    margin: 0 0 15px 0;
+    width: 150px;
+}
+
 .tableImageIcon {
     border: 0;
     margin: 0;
