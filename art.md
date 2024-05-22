@@ -17,6 +17,8 @@ These are all free for personal use. You may not distribute, sell, or charge for
 
 Click the image to see a bigger example image of the collection. Click the Download link to download a ZIP file containing that collection's images. A few collections (like Spring 2024) are Works-in-Progress (WIP) and do not yet have many images.
 
+_Note: These are out of date and I will be updating them as I move to my new hosting area in Microsoft Azure._
+
 [![Spring 2024 Tiles (WIP)](/assets/images/art/tile-spring-banner.png){:.screenshotSmall}](/assets/images/art/tile-spring-banner.png)<br/>
 [Download Spring 2024 (WIP) Tileable Wallpaper Backgrounds](/assets/images/art/tile-spring.zip)
 
