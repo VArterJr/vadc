@@ -8,31 +8,48 @@ permalink: /media/art
 <article id="article" markdown=1>
 
 <p class="alert">Note: Unless otherwise noted, all media is the property of Vincent Lee Arter, Jr. and / or the original author. All copyrights are owned by their owner (of course). You must obtain written permission to use and / or distribute any media from this site.</p>
-<br />
 
-## OS Backgrounds
-I've been creating (tileable and fullscreen) wallpaper backgrounds since Windows started supporting them in Windows 3.x. I created a lot for OS/2 back in the day, but did not hang on to them. :(
+## OS Wallpaper Backgrounds
+I've been creating (tileable and fullscreen) wallpaper backgrounds since Windows started supporting them in Windows 3.x. I also created a lot for OS/2 back in the day, but did not hang on to them. I didn't keep the ones I built specifically during the eight years I primarily used Macs.
 
 These are all free for personal use. You may not distribute, sell, or charge for them in anyway without written permission from me (Vince Arter, Jr.).
 
-Click the image to see a bigger example image of the collection. Click the Download link to download a ZIP file containing that collection's images. A few collections (like Spring 2024) are Works-in-Progress (WIP) and do not yet have many images.
+Click the image to see a bigger example image of the collection. Click the Download link to download a ZIP file containing that collection's images. Some how sub-styles and folders in the ZIP files.
 
-_Note: These are out of date and I will be updating them as I move to my new hosting area in Microsoft Azure._
+#### Operating System Styles (Ultrawide / 21:9)
+[![Linux Ultrawide 1 of 2](/assets/images/art/LinuxUW.png){:.screenshotSmall}](/assets/images/art/LinuxUW.png)<br/>
+[Download Linux Ultrawide Wallpaper Backgrounds File 1 of 2](/assets/images/art/LinuxUW1of2.zip)<br/>
+[Download Linux Ultrawide Wallpaper Backgrounds File 2 of 2](/assets/images/art/LinuxUW2of2.zip)
 
-[![Spring 2024 Tiles (WIP)](/assets/images/art/tile-spring-banner.png){:.screenshotSmall}](/assets/images/art/tile-spring-banner.png)<br/>
-[Download Spring 2024 (WIP) Tileable Wallpaper Backgrounds](/assets/images/art/tile-spring.zip)
+[![Windows Ultrawide](/assets/images/art/WindowsUW.png){:.screenshotSmall}](/assets/images/art/WindowsUW.png)<br/>
+[Download Windows Ultrawide Wallpaper Backgrounds](/assets/images/art/WindowsUW.zip)
 
-[![Valentine's Day 2024 Tiles](/assets/images/art/tile-hearts-banner.png){:.screenshotSmall}](/assets/images/art/tile-hearts-banner.png)<br/>
-[Download Valentine's Day 2024 Tileable Wallpaper Backgrounds](/assets/images/art/tile-hearts.zip)
+#### Seasons (Tileable)
+[![Spring Tileable](/assets/images/art/SpringNatureTileable.png){:.screenshotSmall}](/assets/images/art/SpringNatureTileable.png)<br/>
+[Download Spring Tileable Wallpaper Backgrounds](/assets/images/art/SpringTileable.zip)
 
-[![Winter 2023/2024 Tiles](/assets/images/art/tile-winter-banner.png){:.screenshotSmall}](/assets/images/art/tile-winter-banner.png)<br/>
-[Download Winter 2023/2024 Tileable Wallpaper Backgrounds](/assets/images/art/tile-winter.zip)
+[![Summer Tileable](/assets/images/art/SummerTileable.png){:.screenshotSmall}](/assets/images/art/SummerTileable.png)<br/>
+[Download Summer Tileable Wallpaper Backgrounds](/assets/images/art/SummerTileable.zip)
 
-[![Cobalt Tiles](/assets/images/art/tile-cobalt-banner.png){:.screenshotSmall}](/assets/images/art/tile-cobalt-banner.png)<br/>
-[Download Cobalt Tileable Wallpaper Backgrounds](/assets/images/art/tile-cobalt.zip)
+[![Autumn Tileable](/assets/images/art/AutumnTileable.png){:.screenshotSmall}](/assets/images/art/AutumnTileable.png)<br/>
+[Download Autumn Tileable Wallpaper Backgrounds](/assets/images/art/AutumnTileable.zip)
+
+[![Winter Tileable](/assets/images/art/WinterTileable.png){:.screenshotSmall}](/assets/images/art/WinterTileable.png)<br/>
+[Download Winter Tileable Wallpaper Backgrounds](/assets/images/art/WinterTileable.zip)
+
+#### Holidays (Tileable)
+[![Valentines Tileable](/assets/images/art/ValentinesTileable.png){:.screenshotSmall}](/assets/images/art/ValentinesTileable.png)<br/>
+[Download Valentines Tileable Wallpaper Backgrounds](/assets/images/art/ValentinesTileable.zip)
+
+#### Miscellaneous (Tileable)
+[![Cobalt Tileable](/assets/images/art/CobaltTileable.png){:.screenshotSmall}](/assets/images/art/CobaltTileable.png)<br/>
+[Download Cobalt Tileable Wallpaper Backgrounds](/assets/images/art/CobaltTileable.zip)
+
+[![Colorful Darkness Tileable](/assets/images/art/ColorfulDarknessShapesTileable.png){:.screenshotSmall}](/assets/images/art/ColorfulDarknessShapesTileable.png)<br/>
+[Download Colorful Darkness Tileable Wallpaper Backgrounds](/assets/images/art/ColorfulDarknessTileable.zip)
 
 ## Conferencing Backgrounds
-We conferencing platforms (Microsoft Teams, Zoom, WebEx, Google Chat, etc.) started supporting backgrounds (and some even animated backgrounds), I started creating those as well. Here are a few of my favorites that I've created over the past eight years or so.
+When conferencing platforms (Teams, Zoom, WebEx, Google Chat, etc.) started supporting backgrounds (and some even animated backgrounds), I started creating those as well. Here are a few of my favorites that I've created over the past eight years or so.
 
 These are all free for personal use. You may not distribute, sell, or charge for them in anyway without written permission from me (Vince Arter, Jr.).
 
@@ -45,9 +62,13 @@ These are all free for personal use. You may not distribute, sell, or charge for
 ### Artistic Inspiration
 As you can tell, I'm not really a graphical style artist. Music and writing are my main focus areas. Yet I love to dabble and sometimes the outcome is decent. I hope some of this is enjoyable for someone out there.
 
-|        Page Menu         |
-| :----------------------: |
-|      OS Backgrounds      |
-| Conferencing Backgrounds |
+|                            Page Menu                            |
+| :-------------------------------------------------------------: |
+|    [**All OS Backgrounds (Top)**](#os-wallpaper-backgrounds)    |
+| [OS Style Backgrounds](#operating-system-styles-ultrawide--219) |
+|            [Seasonal Backgrounds](#seasons-tileable)            |
+|            [Holiday Backgrounds](#holidays-tileable)            |
+|      [Miscellaneouss Backgrounds](#miscellaneous-tileable)      |
+|    [**Conferecing Backgrounds**](#conferencing-backgrounds)     |
 
 </aside>

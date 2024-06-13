@@ -12,7 +12,7 @@ permalink: /media/
 ## Visual Art
 My art page contains examples of art I've made over the years. OS wallpaper backgrounds, tileable backgrounds, rendered 3D landscapes, and even conference call camera backgrounds.
 
-[![See may art](/assets/images/art/art-banner.png){:.screenshot}](/media/art)
+[![See may art](/assets/images/art/WindowsUW.png){:.screenshotSmall}](/media/art)
 
 ## Music Examples
 Below are just a few examples of music I've written over the years. The samples below are compositions I wrote using pattern ideation tools, notation tools, and recorded with a DAW.
