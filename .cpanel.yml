@@ -1,3 +1,4 @@
+# This is the deployment for cPanel based deployment with GitHub integration in cPanel.
 ---
 deployment:
   tasks:
