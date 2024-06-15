@@ -17,35 +17,35 @@ These are all free for personal use. You may not distribute, sell, or charge for
 Click the image to see a bigger example image of the collection. Click the Download link to download a ZIP file containing that collection's images. Some how sub-styles and folders in the ZIP files.
 
 #### Operating System Styles (Ultrawide / 21:9)
-[![Linux Ultrawide 1 of 2](/assets/images/art/LinuxUW.png){:.screenshotSmall}](/assets/images/art/LinuxUW.png)<br/>
+[![Linux Ultrawide 1 of 2](/assets/images/art/LinuxUW.png){:.screenshotSmall}](/assets/images/art/LinuxUW.png){:target="_blank"}<br/>
 [Download Linux Ultrawide Wallpaper Backgrounds File 1 of 2](/assets/images/art/LinuxUW1of2.zip)<br/>
 [Download Linux Ultrawide Wallpaper Backgrounds File 2 of 2](/assets/images/art/LinuxUW2of2.zip)
 
-[![Windows Ultrawide](/assets/images/art/WindowsUW.png){:.screenshotSmall}](/assets/images/art/WindowsUW.png)<br/>
+[![Windows Ultrawide](/assets/images/art/WindowsUW.png){:.screenshotSmall}](/assets/images/art/WindowsUW.png){:target="_blank"}<br/>
 [Download Windows Ultrawide Wallpaper Backgrounds](/assets/images/art/WindowsUW.zip)
 
 #### Seasons (Tileable)
-[![Spring Tileable](/assets/images/art/SpringNatureTileable.png){:.screenshotSmall}](/assets/images/art/SpringNatureTileable.png)<br/>
+[![Spring Tileable](/assets/images/art/SpringNatureTileable.png){:.screenshotSmall}](/assets/images/art/SpringNatureTileable.png){:target="_blank"}<br/>
 [Download Spring Tileable Wallpaper Backgrounds](/assets/images/art/SpringTileable.zip)
 
-[![Summer Tileable](/assets/images/art/SummerTileable.png){:.screenshotSmall}](/assets/images/art/SummerTileable.png)<br/>
+[![Summer Tileable](/assets/images/art/SummerTileable.png){:.screenshotSmall}](/assets/images/art/SummerTileable.png){:target="_blank"}<br/>
 [Download Summer Tileable Wallpaper Backgrounds](/assets/images/art/SummerTileable.zip)
 
-[![Autumn Tileable](/assets/images/art/AutumnTileable.png){:.screenshotSmall}](/assets/images/art/AutumnTileable.png)<br/>
+[![Autumn Tileable](/assets/images/art/AutumnTileable.png){:.screenshotSmall}](/assets/images/art/AutumnTileable.png){:target="_blank"}<br/>
 [Download Autumn Tileable Wallpaper Backgrounds](/assets/images/art/AutumnTileable.zip)
 
-[![Winter Tileable](/assets/images/art/WinterTileable.png){:.screenshotSmall}](/assets/images/art/WinterTileable.png)<br/>
+[![Winter Tileable](/assets/images/art/WinterTileable.png){:.screenshotSmall}](/assets/images/art/WinterTileable.png){:target="_blank"}<br/>
 [Download Winter Tileable Wallpaper Backgrounds](/assets/images/art/WinterTileable.zip)
 
 #### Holidays (Tileable)
-[![Valentines Tileable](/assets/images/art/ValentinesTileable.png){:.screenshotSmall}](/assets/images/art/ValentinesTileable.png)<br/>
+[![Valentines Tileable](/assets/images/art/ValentinesTileable.png){:.screenshotSmall}](/assets/images/art/ValentinesTileable.png){:target="_blank"}<br/>
 [Download Valentines Tileable Wallpaper Backgrounds](/assets/images/art/ValentinesTileable.zip)
 
 #### Miscellaneous (Tileable)
-[![Cobalt Tileable](/assets/images/art/CobaltTileable.png){:.screenshotSmall}](/assets/images/art/CobaltTileable.png)<br/>
+[![Cobalt Tileable](/assets/images/art/CobaltTileable.png){:.screenshotSmall}](/assets/images/art/CobaltTileable.png){:target="_blank"}<br/>
 [Download Cobalt Tileable Wallpaper Backgrounds](/assets/images/art/CobaltTileable.zip)
 
-[![Colorful Darkness Tileable](/assets/images/art/ColorfulDarknessShapesTileable.png){:.screenshotSmall}](/assets/images/art/ColorfulDarknessShapesTileable.png)<br/>
+[![Colorful Darkness Tileable](/assets/images/art/ColorfulDarknessShapesTileable.png){:.screenshotSmall}](/assets/images/art/ColorfulDarknessShapesTileable.png){:target="_blank"}<br/>
 [Download Colorful Darkness Tileable Wallpaper Backgrounds](/assets/images/art/ColorfulDarknessTileable.zip)
 
 ## Conferencing Backgrounds

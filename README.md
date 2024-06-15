@@ -16,6 +16,7 @@ You may use this script for personal use. If you distribute, charge for it, or a
 Note: This site uses the open source Jekyll website framework and Liquid template language. For more information on Jekyll licensing, please see https://github.com/jekyll/jekyll/blob/master/LICENSE. For more information on Liquid licensing, please see https://shopify.github.io/liquid/.
 
 ## Version History
+* Version 6.2.2 (15-June-2024): Adjust _Art_ image links to open images in new windows vs. the same window as the website. Changed image text for main bass guitar on _Media_ page.
 * Version 6.2.1 (15-June-2024): Fixed an issue with _.cpanel.yml_ deployment script that was copying the site deployment folder to the deployment path but it should have been copying the contents, not the folder itself.
 * Version 6.2 (15-June-2024): Fixed more build issues with _Art_ page under _Media_. Had this setup incorrectly that was causing it to generate an _art.html_ page vs. a folder like other Markdown pages. Added a slash to force `Jekyll Bundler` to build it out as a folder / directory like the other Markdown pages. Cleaned up Jekyll config files.
 * Version 6.1.1 (15-June-2024): Fixed build issues for __site_ after version 6 was put up yesterday. 
