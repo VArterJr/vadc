@@ -16,6 +16,7 @@ You may use this script for personal use. If you distribute, charge for it, or a
 Note: This site uses the open source Jekyll website framework and Liquid template language. For more information on Jekyll licensing, please see https://github.com/jekyll/jekyll/blob/master/LICENSE. For more information on Liquid licensing, please see https://shopify.github.io/liquid/.
 
 ## Version History
+* Version 6.2 (15-June-2024): Fixed more build issues with _Art_ page under _Media_. Had this setup incorrectly that was causing it to generate an _art.html_ page vs. a folder like other Markdown pages. Added a slash to force `Jekyll Bundler` to build it out as a folder / directory like the other Markdown pages. Cleaned up Jekyll config files.
 * Version 6.1.1 (15-June-2024): Fixed build issues for __site_ after version 6 was put up yesterday. 
 * Version 6.0 (14-June-2024): Removed _Art_ ZIP files so the repo is smaller and will manually upload those outside CI/CD process.
 * Version 5.6 (14-June-2024): Added _/.cpanel.yml_ file that will control deployment to `cPanel` hosts like I'm moving to for my main sites moving off Azure. This move is mainly because of limitations for free levels of Azure.

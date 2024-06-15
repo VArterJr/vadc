@@ -22,10 +22,10 @@ title: VinceArter.com
 email: vince@vincearter.com
 description: >- # this means to ignore newlines until "baseurl:"
   The homepage of Vince Arter, Jr. Here you can find data on Vince, his 
-  resume / CV, and technical information on project he is working on! 
+  resume / CV, art and music projects, and technical information on projects he is working on.
   Enjoy!
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://varterjr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.vincearter.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: VinnieDaArm
 github_username:  varterjr
 
@@ -41,6 +41,7 @@ exclude: ["README.md"]
 # Build settings
 theme: minima
 #theme: jekyll-theme-hacker
+
 plugins:
   - jekyll-feed
   - jekyll-default-layout

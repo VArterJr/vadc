@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Backgrounds / Wallpapers by Vince Arter, Jr.
-permalink: /media/art
+permalink: /media/art/
 ---
 ## {{page.title}}
 

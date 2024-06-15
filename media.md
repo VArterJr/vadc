@@ -43,7 +43,7 @@ Just look around you... the world is amazing. There is plenty to inspire your cr
 * The World
 
 
-<img class="imgAsideMain" src="/assets/images/mybass.jpg" alt="My current Cort GB-Modern 4 bass" />
+<img class="imgAsideMain" src="/assets/images/mybass.jpg" alt="My main bass...  Cort GB-Modern 4 bass" />
 <p id="figAsideMain" margin=0 padding=0>My current Cort GB-Modern 4 Bass</p>
 
 </aside>
