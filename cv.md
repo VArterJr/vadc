@@ -137,31 +137,33 @@ Design and support hospital imaging equipment. Developed industry leading softwa
 ## Contact Vince
 For more information or a formal CV please contact me at [vince@vincearter.com](mailto:vince@vincearter.com).
 
-|                 Certifications & Accreditations                  |
-| :--------------------------------------------------------------: |
-|                       Microsoft SkillUp AI                       |
-| Microsoft Senior Technical Leadership Development Program (TLDP) |
-|              Microsoft Security Fund.<br/>(SC-900)               |
-|               Microsoft Azure Data Fund. (DP-900)                |
-|                Microsoft Dynamics Fund. (MB-900)                 |
-|                  Microsoft M365 Fund. (MS-900)                   |
-|                Microsoft Azure Fund.<br/>(AZ-900)                |
-|               Microsoft Software Development Fund.               |
-|              Microsoft Technical Associate Windows               |
-|                    Microsoft Windows OS Fund.                    |
-|                 Microsoft Certified Professional                 |
-|                  Linux Certified Administrator                   |
-|               Linux Pro. Institute Level 2 - LPIC2               |
-|               Linux Pro. Institute Level 1 - LPIC1               |
-|                          CompTIA Linux+                          |
-|                         CompTIA Project+                         |
-|                        CompTIA Security+                         |
-|                         CompTIA Network+                         |
-|                            CompTIA A+                            |
-|                  CIW Database Design Specialist                  |
-|                    CIW Web Design Specialist                     |
-|                    CIW JavaScript Specialist                     |
-|                    CIW Foundations Associate                     |
+|              Certifications & Accreditations              |
+| :-------------------------------------------------------: |
+|             Microsoft Azure AI Fund. (AI-900)             |
+|       Bachelors in Microsoft Health & Life Sciences       |
+|                   Microsoft SkillUp AI                    |
+| Microsoft Senior Technical Leadership Development Program |
+|           Microsoft Security Fund.<br/>(SC-900)           |
+|            Microsoft Azure Data Fund. (DP-900)            |
+|             Microsoft Dynamics Fund. (MB-900)             |
+|               Microsoft M365 Fund. (MS-900)               |
+|            Microsoft Azure Fund.<br/>(AZ-900)             |
+|           Microsoft Software Development Fund.            |
+|           Microsoft Technical Associate Windows           |
+|                Microsoft Windows OS Fund.                 |
+|             Microsoft Certified Professional              |
+|               Linux Certified Administrator               |
+|           Linux Pro. Institute Level 2 - LPIC2            |
+|           Linux Pro. Institute Level 1 - LPIC1            |
+|                      CompTIA Linux+                       |
+|                     CompTIA Project+                      |
+|                     CompTIA Security+                     |
+|                     CompTIA Network+                      |
+|                        CompTIA A+                         |
+|              CIW Database Design Specialist               |
+|                 CIW Web Design Specialist                 |
+|                 CIW JavaScript Specialist                 |
+|                 CIW Foundations Associate                 |
 
 |            Academic            |                    Institution                     |
 | :----------------------------: | :------------------------------------------------: |
